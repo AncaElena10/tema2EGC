@@ -2,6 +2,8 @@ Tema2 EGC - Build and Survive
 Moisa Anca-Elena
 331CA
 
+Mult cod duplicat. Se apropia deadline-ul.
+
 Utilizare aplicatie
 -------------------
 
